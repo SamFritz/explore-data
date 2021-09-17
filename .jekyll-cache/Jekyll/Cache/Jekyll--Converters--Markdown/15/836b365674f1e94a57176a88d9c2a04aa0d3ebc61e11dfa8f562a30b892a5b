@@ -1,0 +1,23 @@
+I"K<p>logo: “/assets/images/fritz.jpg</p>
+
+<p>Welcome! This site is meant to document my journey i building a Jekyll site and accompanying tools and methods for data analysis!</p>
+
+<p>Resources for building Jekyll site:</p>
+
+<ul>
+  <li>Building Initial Jekyll site with <a href="https://www.youtube.com/watch?v=1na-IWfv08M&amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&amp;index=8">Mike Dane YouTube Tutorials</a></li>
+  <li>Changing the theme to <a href="https://pmarsceill.github.io/just-the-docs/">Just-the-Docs</a></li>
+</ul>
+
+<p>Other ResourceS:</p>
+
+<ul>
+  <li>Basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></li>
+  <li>Source code for Minima at GitHub:
+    <ul>
+      <li>[jekyll][jekyll-organization] /</li>
+      <li><a href="https://github.com/jekyll/minima">minima</a></li>
+    </ul>
+  </li>
+</ul>
+:ET
