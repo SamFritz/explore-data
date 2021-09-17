@@ -30,7 +30,10 @@ twitter_username: SamVFritz
 github_username:  SamFritz
 
 # Build settings
-theme: minima
+theme: just-the-docs
+# theme: minima
+
+
 plugins:
   - jekyll-feed
 
