@@ -1,18 +1,13 @@
 ---
 layout: page
 title: Adventures with Jekyll
-permalink: /thing1/
+permalink: /Jekyll/
 has_children: true
 ---
 
-Resources for building Jekyll site: 
+# Introduction
 
-* Building Initial Jekyll site with [Mike Dane YouTube Tutorials](https://www.youtube.com/watch?v=1na-IWfv08M&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=8)
-* Building Project Websites with Jekyll and GitHub Pages with [UBC](https://ubc-library-rc.github.io/intro-project-sites/)
-* Changing the theme to [Just-the-Docs](https://pmarsceill.github.io/just-the-docs/)
-
-
-Steps:
+Some fun facts: I'm not a coder, most of my coding "expertise" is a combination of frantically Googling errors and trying not to throw my laptop, and I am a believe of what doesn't kill you makes you stronger....especially when your on the otherside of the situation.
 
 
 Other Resources: 
