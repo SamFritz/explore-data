@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Additional Jekyll Resources
-permalink: /additional-jekyll-resources/
+title: Resources
+permalink: /resources/
 parent: Adventures with Jekyll
 navigation_weight: 3
 ---
