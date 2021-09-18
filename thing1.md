@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thing 1
+title: Adventures with Jekyll
 permalink: /thing1/
 has_children: true
 ---
