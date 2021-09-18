@@ -1,0 +1,52 @@
+I"�<h2 id="introduction">Introduction</h2>
+
+<p>My interest in working with a Jekyll site came after attending a few workshops, where instructions had been set up through an insitutional repository and displays through the just-the-docs theme.</p>
+
+<p>I wanted to launch a Jekyll site that:</p>
+<ul>
+  <li>brought together materials walking through my data analysis exploration (of which there are a variety of techniques)</li>
+  <li>it’s a humbling experience to do something difficult and out of your comfort zone, when there’s an easier option</li>
+</ul>
+
+<h2 id="steps">Steps</h2>
+
+<h3 id="1-gather-the-ingredients">1. Gather the Ingredients</h3>
+<p><strong>Tools</strong>:</p>
+
+<ul>
+  <li>GitHub user account</li>
+  <li>Text Editor</li>
+  <li>Basic understanding of Command Line (<a href="https://programminghistorian.org/en/lessons/intro-to-bash">Intro to Bash</a> tutorial from Programming Historian)</li>
+  <li>Basic understanding of Markdown (<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a> provides a great overview)</li>
+</ul>
+
+<p><strong>Dependencies</strong>: (in coding terms, this means when a piece of software relies on another one)</p>
+<ul>
+  <li>Homebrew</li>
+  <li>Ruby</li>
+  <li>Ruby Gems</li>
+  <li>Jekyll</li>
+</ul>
+
+<h3 id="2-dependency-checks--jekyll-install">2. Dependency Checks / Jekyll Install</h3>
+
+<p>Mike Dane, a developer and teacher, has created a series of <a href="https://www.youtube.com/watch?v=1na-IWfv08M&amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&amp;index=8">Jekyll Tutorials</a>, and these were invaluable for understanding how Jekyll works, how to create a Jekyll site and information around configuring content.</p>
+
+<ul>
+  <li>Check ruby version: <code class="language-plaintext highlighter-rouge">ruby -v</code> (<a href="https://jekyllrb.com/docs/">2.5.0 or higher</a>, as of September 2021 )</li>
+  <li>Check gem version: <code class="language-plaintext highlighter-rouge">gem -v</code></li>
+  <li>Install the jekyll and bundler gems: <code class="language-plaintext highlighter-rouge">gem install jekyll bundler</code></li>
+  <li>Check Jekyll version: <code class="language-plaintext highlighter-rouge">jekyll -v</code></li>
+</ul>
+
+<h3 id="3-create-a-new-jekyll-site">3. Create a New Jekyll Site</h3>
+
+<p>Followed instructions from Mike Dane’s <a href="https://www.youtube.com/watch?v=pxua_1vyFck&amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&amp;index=4">Tutorial: Creating a Site</a></p>
+
+<ul>
+  <li>Create a new Jekyll site: <code class="language-plaintext highlighter-rouge">jekyll new myblog</code></li>
+  <li>Change into your new directory: <code class="language-plaintext highlighter-rouge">cd myblog</code></li>
+  <li>Build the site and make it available on a local server: <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></li>
+  <li>Open browser to view local version of you Jekyll site: <code class="language-plaintext highlighter-rouge">Browse to http://localhost:4000</code></li>
+</ul>
+:ET

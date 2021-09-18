@@ -1,0 +1,32 @@
+I"w<h2 id="resources">Resources</h2>
+
+<p>The following resources were very helpful as I launched my first Jekyll site!</p>
+
+<ul>
+  <li>Building Initial Jekyll site with <a href="https://www.youtube.com/watch?v=1na-IWfv08M&amp;list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&amp;index=8">Mike Dane YouTube Tutorials</a></li>
+  <li>Building Project Websites with Jekyll and GitHub Pages with <a href="https://ubc-library-rc.github.io/intro-project-sites/">UBC</a></li>
+  <li>Changing the theme to <a href="https://pmarsceill.github.io/just-the-docs/">Just-the-Docs</a></li>
+  <li>Programming Historian: <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages">Building a static website with Jekyll and GitHub Pages</a></li>
+</ul>
+
+<p>Some other reference resources that provide a basic and general knowledge of Jekyll include:</p>
+
+<ul>
+  <li>Basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></li>
+  <li>Source code for <a href="https://github.com/jekyll/minima">Minima</a> at GitHub</li>
+</ul>
+
+<p><strong>Further reading</strong></p>
+
+<p>Credit: (Amanda Visconti, <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages">“Building a static website with Jekyll and GitHub Pages</a>,” Programming Historian)</p>
+
+<p>Official Jekyll Documentation
+Jekyll “unofficially” links to two Windows + Jekyll resources: http://jekyll-windows.juthilo.com/ and https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/
+https://help.github.com/articles/using-jekyll-with-pages/
+Amanda Visconti, “Introducing Static Sites for Digital Humanities Projects (why &amp; what are Jekyll, GitHub, etc.?)”
+Alex Gil, “How (and Why) to Generate a Static Website Using Jekyll, Part 1”
+Eduardo Bouças, “An Introduction to Static Site Generators”
+Jekyll Style Guide
+The Prose content editor (built on Jekyll)
+Join the Digital Humanities Slack (anyone can join, even if you have no DH experience) and check out the #publishing channel for discussions of Jekyll and other DH publishing platforms</p>
+:ET
