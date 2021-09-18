@@ -1,4 +1,4 @@
-I"&<h2 id="resources">Resources</h2>
+I"c<h2 id="resources">Resources</h2>
 
 <p>The following resources were very helpful as I launched my first Jekyll site!</p>
 
@@ -8,12 +8,10 @@
   <li>Changing the theme to <a href="https://pmarsceill.github.io/just-the-docs/">Just-the-Docs</a></li>
 </ul>
 
-<p>Other Resources:</p>
+<p>Some other reference resources that provide a basic and general knowledge of Jekyll include:</p>
 
 <ul>
   <li>Basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></li>
   <li>Source code for <a href="https://github.com/jekyll/minima">Minima</a> at GitHub</li>
 </ul>
-
-<p>Steps:</p>
 :ET

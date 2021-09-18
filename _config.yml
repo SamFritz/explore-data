@@ -26,7 +26,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SamVFritz
 github_username:  SamFritz
 
-
 # Build settings
 theme: just-the-docs
 

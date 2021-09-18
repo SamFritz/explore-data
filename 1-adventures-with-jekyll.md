@@ -3,7 +3,7 @@ layout: page
 title: Adventures with Jekyll
 permalink: /Jekyll/
 has_children: true
-order: 1
+navigation_weight: 1
 ---
 
 # Introduction

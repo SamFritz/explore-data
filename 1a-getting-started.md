@@ -3,15 +3,16 @@ layout: page
 title: Getting Started
 permalink: /getting-started/
 parent: Adventures with Jekyll
-order: 2
+navigation_weight: 2
 ---
 
-## Resources
+## Introduction
 
-The following resources were very helpful as I launched my first Jekyll site! 
+My interest in working with a Jekyll site came after attending a few workshops, where instructions had been set up through an insitutional repository and displays through the just-the-docs theme. 
 
-* Building Initial Jekyll site with [Mike Dane YouTube Tutorials](https://www.youtube.com/watch?v=1na-IWfv08M&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=8)
-* Building Project Websites with Jekyll and GitHub Pages with [UBC](https://ubc-library-rc.github.io/intro-project-sites/)
-* Changing the theme to [Just-the-Docs](https://pmarsceill.github.io/just-the-docs/)
+I wanted to launch a Jekyll site that:
+- brought together materials walking through my data analysis exploration (of which there are a variety of techniques)
+- it's a humbling experience to do something difficult and out of your comfort zone, when there's an easier option
 
 ## Steps
+
