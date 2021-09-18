@@ -22,7 +22,7 @@ logo: "fritz.jpg"
 email: svefritz@gmail.com.com
 description: Investigating and experimenting with data!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://exploredata.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SamVFritz
 github_username:  SamFritz
 
