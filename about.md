@@ -12,4 +12,3 @@ This site is meant to document my journey in trying out various tools and method
 
 Through this site I'll explore
 - How to set up a Jekyll site
-- Text Analysis

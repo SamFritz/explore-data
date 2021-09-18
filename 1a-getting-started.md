@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Getting Started
-permalink: /thing1/
+permalink: /getting-started/
 parent: Adventures with Jekyll
+order: 2
 ---
 
 ## Resources
@@ -13,10 +14,4 @@ The following resources were very helpful as I launched my first Jekyll site!
 * Building Project Websites with Jekyll and GitHub Pages with [UBC](https://ubc-library-rc.github.io/intro-project-sites/)
 * Changing the theme to [Just-the-Docs](https://pmarsceill.github.io/just-the-docs/)
 
-
-Other Resources: 
-
-* Basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-* Source code for [Minima](https://github.com/jekyll/minima) at GitHub
-
-Steps:
+## Steps
