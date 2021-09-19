@@ -10,6 +10,26 @@ navigation_weight: 3
 
 This is the fun step, where you get to alter the site to meet you needs, organize the information structure, and select visual display preferences.
 
+The file for making changes to the visual aspects of this Jekyll site: `just-the-docs-default.css` because  the `index.html` defines the stylesheet as
+
+ `<link rel="stylesheet" href="/assets/css/just-the-docs-default.css">`
+
+**Changes**
+
+I was interested in changing the **color** of the site (or for us Canadians, colour <-- I can't tell you how many issues I've created for my self because I've used CND spelling when coding). Majority of my work uses [Adobe Color](https://color.adobe.com/create/color-wheel) to help create palettes. 
+
+Searched for color-background (there were 74 instances), 
+
+`.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }`
+
+`background-color` options
+
+|  Color Code |   |
+|-------------|---|
+| #D9896C     |   |
+
+
+
 
 
 ### 6. Publish

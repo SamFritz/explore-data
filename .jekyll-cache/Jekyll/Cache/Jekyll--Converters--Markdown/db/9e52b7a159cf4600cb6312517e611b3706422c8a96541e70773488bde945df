@@ -1,0 +1,43 @@
+I"�<h3 id="5-customize-and-create">5. Customize and Create</h3>
+
+<p>This is the fun step, where you get to alter the site to meet you needs, organize the information structure, and select visual display preferences.</p>
+
+<p>The file for making changes to the visual aspects of this Jekyll site: <code class="language-plaintext highlighter-rouge">just-the-docs-default.css</code> because  the <code class="language-plaintext highlighter-rouge">index.html</code> defines the stylesheet as</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;link rel="stylesheet" href="/assets/css/just-the-docs-default.css"&gt;</code></p>
+
+<p><strong>Changes</strong></p>
+
+<p>I was interested in changing the <strong>color</strong> of the site (or for us Canadians, colour &lt;– I can’t tell you how many issues I’ve created for my self because I’ve used CND spelling when coding). Majority of my work uses <a href="https://color.adobe.com/create/color-wheel">Adobe Color</a> to help create palettes.</p>
+
+<p>Searched for color-background (there were 74 instances),</p>
+
+<p><code class="language-plaintext highlighter-rouge">.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">background-color</code> options</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Color Code</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#D9896C</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="6-publish">6. Publish</h3>
+
+<p>Up until now, the site has been maintained and view locally. This means that even if you gave someone the <code class="language-plaintext highlighter-rouge">http://localhost:4000</code>, they will not see the content you’ve created.  So now it’s time to make the Jekyll site viewable publically (if that’s what you choose). This is also where I hit a snag.</p>
+
+<p>Resources to try out:</p>
+
+<ul>
+  <li></li>
+</ul>
+:ET
