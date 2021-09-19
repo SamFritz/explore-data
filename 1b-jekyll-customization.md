@@ -18,19 +18,13 @@ The file for making changes to the visual aspects of this Jekyll site: `just-the
 
 I was interested in changing the **color** of the site (or for us Canadians, colour <-- I can't tell you how many issues I've created for my self because I've used CND spelling when coding). Majority of my work uses [Adobe Color](https://color.adobe.com/create/color-wheel) to help create palettes. 
 
-Searched for color-background (there were 74 instances), 
-
-`.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }`
+Searched for #7253ed (there were 11 instances), attempted to change to `f77e7e`
 
 `background-color` options
 
 |  Color Code |   |
 |-------------|---|
 | #D9896C     |   |
-
-
-
-
 
 ### 6. Publish
 
